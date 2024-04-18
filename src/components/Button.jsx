@@ -1,5 +1,4 @@
 import className from 'classnames';
-import { any } from 'prop-types';
 import { twMerge } from 'tailwind-merge';
 
 const Button = ({

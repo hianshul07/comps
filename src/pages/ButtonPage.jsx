@@ -2,6 +2,10 @@ import Button from '../components/Button';
 import { GoBell } from 'react-icons/go';
 
 const ButtonPage = () => {
+	const handleClick = () => {
+		console.log('hehehehehehe car');
+	};
+
 	return (
 		<div>
 			<div>
